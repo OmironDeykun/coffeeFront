@@ -2,6 +2,314 @@
 Chart.defaults.global.defaultFontFamily = 'Nunito', '-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif';
 Chart.defaults.global.defaultFontColor = '#858796';
 
+let history = [
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 2,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.18",
+        "time": "14:07:10"
+    },
+    {
+        "id": 3,
+        "name": "petr",
+        "type": "espresso",
+        "date": "2019.03.19",
+        "time": "14:07:11"
+    },
+    {
+        "id": 4,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.19",
+        "time": "14:07:14"
+    },
+    {
+        "id": 5,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.20",
+        "time": "14:07:33"
+    },
+    {
+        "id": 6,
+        "name": "sanya",
+        "type": "coffee",
+        "date": "2019.03.21",
+        "time": "14:07:34"
+    },
+    {
+        "id": 7,
+        "name": "nikita",
+        "type": "cappuccino",
+        "date": "2019.03.21",
+        "time": "14:07:35"
+    },
+    {
+        "id": 8,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.21",
+        "time": "16:59:24"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.23",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.23",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "cappuccino",
+        "date": "2019.03.23",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.23",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.23",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.23",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.24",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.24",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "coffee",
+        "date": "2019.03.24",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.24",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.24",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },
+    {
+        "id": 9,
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "coffee",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "coffee",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },{
+        "id": 9,
+        "name": "sanya",
+        "type": "espresso",
+        "date": "2019.03.25",
+        "time": "16:59:25"
+    },
+];
+
+let specifications = [];
+let nowDate = 0;
+let time = 1;
+let statisticsData = [];
+
+for (moment of history) {
+   let newDate = moment.date;
+   if (newDate === nowDate) {
+      time++;
+   }else {
+      specifications = [time, nowDate]
+      statisticsData.push(specifications);
+      nowDate = newDate;
+      time = 1;
+   }
+}
+
+let statisticsDataDate = [];
+let statisticsDataTime = [];
+for (let i = 0; i < statisticsData.length; i++) {
+   statisticsDataDate[i] = statisticsData[i][1];
+   statisticsDataTime[i] = statisticsData[i][0];
+}
+
+
 function number_format(number, decimals, dec_point, thousands_sep) {
   // *     example: number_format(1234.56, 2, ',', ' ');
   // *     return: '1 234,56'
@@ -32,10 +340,10 @@ var ctx = document.getElementById("myAreaChart");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    labels: statisticsDataDate,
     datasets: [{
-      label: "Earnings",
-      lineTension: 0.3,
+      label: "Times",
+      lineTension: 0,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
       borderColor: "rgba(78, 115, 223, 1)",
       pointRadius: 3,
@@ -46,7 +354,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [0, 10000, 5000, 15000, 10000, 20000, 15000, 25000, 20000, 30000, 25000, 40000],
+      data: statisticsDataTime,
     }],
   },
   options: {
@@ -78,7 +386,7 @@ var myLineChart = new Chart(ctx, {
           padding: 10,
           // Include a dollar sign in the ticks
           callback: function(value, index, values) {
-            return '$' + number_format(value);
+            return number_format(value);
           }
         },
         gridLines: {
@@ -110,7 +418,7 @@ var myLineChart = new Chart(ctx, {
       callbacks: {
         label: function(tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + ': $' + number_format(tooltipItem.yLabel);
+          return datasetLabel + ': ' + number_format(tooltipItem.yLabel);
         }
       }
     }
