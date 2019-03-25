@@ -19,8 +19,22 @@ let history = [
     },
     {
         "id": 1,
-        "name": "petr",
-        "type": "cappuccino",
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
         "date": "2019.03.17",
         "time": "14:07:06"
     },
@@ -33,8 +47,22 @@ let history = [
     },
     {
         "id": 1,
-        "name": "petr",
-        "type": "cappuccino",
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
         "date": "2019.03.17",
         "time": "14:07:06"
     },
@@ -47,8 +75,22 @@ let history = [
     },
     {
         "id": 1,
-        "name": "petr",
-        "type": "cappuccino",
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
         "date": "2019.03.17",
         "time": "14:07:06"
     },
@@ -61,8 +103,22 @@ let history = [
     },
     {
         "id": 1,
-        "name": "petr",
-        "type": "cappuccino",
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
         "date": "2019.03.17",
         "time": "14:07:06"
     },
@@ -75,8 +131,22 @@ let history = [
     },
     {
         "id": 1,
-        "name": "petr",
-        "type": "cappuccino",
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
         "date": "2019.03.17",
         "time": "14:07:06"
     },
@@ -89,8 +159,22 @@ let history = [
     },
     {
         "id": 1,
-        "name": "petr",
-        "type": "cappuccino",
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
         "date": "2019.03.17",
         "time": "14:07:06"
     },
@@ -102,186 +186,82 @@ let history = [
         "time": "14:07:06"
     },
     {
-        "id": 2,
+        "id": 1,
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
         "name": "petr",
         "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "nikita",
+        "type": "espresso",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "sanya",
+        "type": "americano",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+
+    {
+        "id": 1,
+        "name": "petr",
+        "type": "cappuccino",
+        "date": "2019.03.17",
+        "time": "14:07:06"
+    },
+    {
+        "id": 1,
+        "name": "nikita",
+        "type": "espresso",
         "date": "2019.03.18",
-        "time": "14:07:10"
+        "time": "14:07:06"
     },
     {
-        "id": 3,
-        "name": "petr",
-        "type": "espresso",
-        "date": "2019.03.19",
-        "time": "14:07:11"
-    },
-    {
-        "id": 4,
-        "name": "petr",
-        "type": "cappuccino",
-        "date": "2019.03.19",
-        "time": "14:07:14"
-    },
-    {
-        "id": 5,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.20",
-        "time": "14:07:33"
-    },
-    {
-        "id": 6,
+        "id": 1,
         "name": "sanya",
-        "type": "coffee",
-        "date": "2019.03.21",
-        "time": "14:07:34"
+        "type": "americano",
+        "date": "2019.03.18",
+        "time": "14:07:06"
     },
     {
-        "id": 7,
-        "name": "nikita",
-        "type": "cappuccino",
-        "date": "2019.03.21",
-        "time": "14:07:35"
-    },
-    {
-        "id": 8,
-        "name": "petr",
-        "type": "cappuccino",
-        "date": "2019.03.21",
-        "time": "16:59:24"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.23",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.23",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "cappuccino",
-        "date": "2019.03.23",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.23",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.23",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.23",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.24",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.24",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "coffee",
-        "date": "2019.03.24",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "espresso",
-        "date": "2019.03.24",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "espresso",
-        "date": "2019.03.24",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },
-    {
-        "id": 9,
-        "name": "nikita",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "coffee",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "coffee",
-        "date": "2019.03.25",
-        "time": "16:59:25"
-    },{
-        "id": 9,
-        "name": "sanya",
-        "type": "espresso",
-        "date": "2019.03.25",
-        "time": "16:59:25"
+        "id": 1,
+        "name": "gleb",
+        "type": "latte",
+        "date": "2019.03.18",
+        "time": "14:07:06"
     },
 ];
 
@@ -424,3 +404,105 @@ var myLineChart = new Chart(ctx, {
     }
   }
 });
+
+let name;
+let searched = false;
+let peopleTime = 1;
+let resData = [];
+for (moment of history) {
+   name = moment.name;
+   for (let i = 0; i < resData.length; i++) {
+      if (name === resData[i][0]) {
+         resData[i][1]++;
+         searched = true;
+      }
+   }
+   if (!searched) {
+      resData.push([name, 1]);
+   }
+   searched = false;
+}
+let reslabels = [], resvalue = [];
+for (peopleTime of resData) {
+   reslabels.push(peopleTime[0]);
+   resvalue.push(peopleTime[1]);
+}
+
+// Pie Chart Example
+var ctx = document.getElementById("myPieChart");
+var myPieChart = new Chart(ctx, {
+  type: 'doughnut',
+  data: {
+    labels: reslabels,
+    datasets: [{
+      data: resvalue,
+      backgroundColor: ['#4e73df', '#1cc88a', '#36b9cc'],
+      hoverBackgroundColor: ['#2e59d9', '#17a673', '#2c9faf'],
+      hoverBorderColor: "rgba(234, 236, 244, 1)",
+    }],
+  },
+  options: {
+    maintainAspectRatio: false,
+    tooltips: {
+      backgroundColor: "rgb(255,255,255)",
+      bodyFontColor: "#858796",
+      borderColor: '#dddfeb',
+      borderWidth: 1,
+      xPadding: 15,
+      yPadding: 15,
+      displayColors: false,
+      caretPadding: 10,
+    },
+    legend: {
+      display: false
+    },
+    cutoutPercentage: 80,
+  },
+});
+
+
+
+let typeCoffee = [];
+let timeType = 1;
+let valueType = [];
+let check = false;
+let newType;
+
+for (moment of history) {
+   newType = moment.type;
+   // console.log(newType);
+   for(type of typeCoffee){
+      if (newType == type[0]) {
+         type[1]++;
+         check = true;
+      }
+   }
+   if (!check) {
+      valueType = [newType, 1]
+      typeCoffee.push(valueType);
+   }
+   check = false;
+}
+
+
+let percent;
+for (type of typeCoffee) {
+   percent = Math.round(100 / history.length * type[1]);
+   $("#" + type[0]).width(percent+"%");
+   $("#" + type[0] + "Percent").html(type[0]+" <span class='float-right'>"+percent+"%");
+}
+
+$("#allTime").text(history.length);
+
+$("#coffeeDrinkers").text(resData.length);
+
+let max = resData[0][1];
+let maxName = resData[0][0];
+for (moment of resData) {
+    if (moment[1] > max){
+      max = moment[1];
+      maxName = moment[0];
+    }
+}
+
+$("#topCoffeeDrinkers").text(maxName);
